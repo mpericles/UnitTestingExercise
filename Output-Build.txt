@@ -1,0 +1,9 @@
+﻿Build started...
+1>------ Build started: Project: UnitTestingExercise, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>UnitTestingExercise -> C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\UnitTestingExercise\UnitTestingExercise\bin\Debug\net6.0\UnitTestingExercise.dll
+2>------ Build started: Project: UnitTestingExercise.Tests, Configuration: Debug Any CPU ------
+2>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+2>UnitTestingExercise.Tests -> C:\Users\mperi\OneDrive\Desktop\Truecoders\repos\UnitTestingExercise\UnitTestingExercise.Tests\bin\Debug\net6.0\UnitTestingExercise.Tests.dll
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 8:45 AM and took 01.300 seconds ==========
